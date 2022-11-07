@@ -1,0 +1,28 @@
+{
+  "name": "company-portfolio",
+  "version": "1.0.0",
+  "description": "Learning bootstrap v5 with sass",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass":"sass --watch scss:assets/css"
+  },
+  "keywords": [
+    "Bootstrap",
+    "botstrap\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Do\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dt\u001b[C\u001b[C\u001b[D\u001b[D\u001b[C\u001b[Ds",
+    "strap",
+    "sass",
+    "learn-bootstrap",
+    "learn-sass"
+  ],
+  "author": "Adel Ahmed",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.54.8"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.2.0",
+    "autoprefixer": "^10.4.8",
+    "bootstrap": "^5.2.0",
+    "postcss-cli": "^10.0.0"
+  }
+}
